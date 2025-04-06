@@ -8,4 +8,4 @@ g++ -std=c++2a -I. -I ./headers/ -c ./src/sayHello.cpp -o ./build/sayHello.o
 
 g++ -std=c++2a main.cpp -o ./build/app ./build/sayHello.o
 
-./app
+./build/app
