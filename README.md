@@ -1,7 +1,6 @@
 # buildAutomation
 
-Studying build automation and compilation databases.
-We will start with basic shell scripts and then venture into make files
-and finally see cmake in action.</br>    
+To go through software and codebases which have not been updated, one must know
+how to build the project. 
 
 
